@@ -38,3 +38,12 @@ p {
     margin: 1rem;
     font-weight: bolder;
 }
+
+#bday-input{
+    width: 13%;
+    height: 5%;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}
